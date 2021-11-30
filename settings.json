@@ -1,0 +1,16 @@
+{
+    "name": "LGTBQUnity",
+    "blocks": {
+        "/blockchain/avalanche": true,
+        "/blockchain/avalanche/solidity": true,
+        "/framework/vanilla": true,
+        "/category/access_control/core-administrator_role": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "LGTBQ Coin",
+        "/category/asset_value_tracking/core-token/symbol": "LGTBQ",
+        "/category/asset_value_tracking/core-token/decimals": "15",
+        "/category/asset_value_tracking/core-token/supply": "1000000000",
+        "/category/nft/core-custom_nft": true,
+        "/category/nft/core-custom_nft/template": "collectible"
+    }
+}

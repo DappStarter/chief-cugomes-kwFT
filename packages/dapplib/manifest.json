@@ -1,0 +1,31 @@
+{
+    "repository": {},
+    "__outputFolder": null,
+    "blocks": [
+        {
+            "category": "access_control",
+            "name": "core-administrator_role",
+            "parameters": {}
+        },
+        {
+            "category": "asset_value_tracking",
+            "name": "core-token",
+            "parameters": {
+                "name": "LGTBQ Coin",
+                "symbol": "LGTBQ",
+                "decimals": "15",
+                "supply": "1000000000"
+            }
+        },
+        {
+            "category": "nft",
+            "name": "core-custom_nft",
+            "parameters": {
+                "template": "collectible"
+            }
+        }
+    ],
+    "blockchain": "avalanche",
+    "language": "solidity",
+    "framework": "vanilla"
+}
